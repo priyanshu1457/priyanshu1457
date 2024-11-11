@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @priyanshu1
+- 👋 Hi, I’m Priyanshu Chandode
 - 👀 I’m interested in Dotnet Fullstack Web devlopment
 - 🌱 I’m currently Doing Intermship at LBE Group.
 <!---
